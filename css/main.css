@@ -1,0 +1,13 @@
+.skills img{
+    object-fit: cover;
+    height: min-content;
+    width: 5em;  
+}
+
+.skills > .row > .col, .educacion, .cursos, .experiencia, footer{
+    background-color: rgb(31, 31, 29);
+}
+
+.img-container-portafolio img{
+    height: 10rem;
+}
